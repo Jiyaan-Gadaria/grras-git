@@ -1,1 +1,1 @@
-This is our git session
+This is our git session, we are learing how to install a git software also we have seen how to create a git repo.
