@@ -2,3 +2,6 @@ This is our git session, we are learing how to install a git software also we ha
 till now we have see how to clone the repo, now will use git pull command
 
 Now we are going to ignore .txt files
+
+
+let's see
