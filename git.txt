@@ -1,7 +1,1 @@
-This is our git session, we are learing how to install a git software also we have seen how to create a git repo.
-till now we have see how to clone the repo, now will use git pull command
-
-Now we are going to ignore .txt files
-
-
-let's see
+This file
